@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\Leson 12\LetterVsSentence\LetterVsSentence\bin\Debug\LetterVsSentence.exe
+C:\Users\tural\Desktop\Leson 12\LetterVsSentence\LetterVsSentence\bin\Debug\LetterVsSentence.pdb
+C:\Users\tural\Desktop\Leson 12\LetterVsSentence\LetterVsSentence\obj\Debug\LetterVsSentence.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\Leson 12\LetterVsSentence\LetterVsSentence\obj\Debug\LetterVsSentence.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\Leson 12\LetterVsSentence\LetterVsSentence\obj\Debug\LetterVsSentence.exe
+C:\Users\tural\Desktop\Leson 12\LetterVsSentence\LetterVsSentence\obj\Debug\LetterVsSentence.pdb
